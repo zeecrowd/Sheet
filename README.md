@@ -1,2 +1,4 @@
-Sheet
-=====
+BasicCalendar
+=============
+
+A basic shared calendar

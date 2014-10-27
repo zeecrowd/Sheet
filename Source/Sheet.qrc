@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Sheet">
+        <file>Packages/SheetApplication.cfg</file>
+        <file>Resources/addUrl.png</file>
+        <file>Resources/back.png</file>
+        <file>Resources/bin.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/editmode.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/plus.png</file>
+        <file>Views/AddSheetView.qml</file>
+        <file>Views/Main.js</file>
+        <file>Views/Main.qml</file>
+        <file>Views/SheetListView.qml</file>
+        <file>Views/SheetListViewDelegate.qml</file>
+        <file>Views/SheetTextFieldStyle.qml</file>
+        <file>Views/SplashScreen.qml</file>
+        <file>Views/Tools.js</file>
+        <file>Resources/Sheet.png</file>
+    </qresource>
+</RCC>
